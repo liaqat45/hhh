@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Admin - Modern RBAC Dashboard",
+  "description": "A feature-rich Role-Based Access Control dashboard demonstrating authentication, protected routing, and full CRUD functionality for a SaaS product management system.",
+  "requestFramePermissions": []
+}
